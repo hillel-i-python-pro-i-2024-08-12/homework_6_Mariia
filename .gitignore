@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+*.pvm
+*.py[cod]
+*$py.class
+
+# Ignore IDE configurations (for example, PyCharm)
+.idea/
+
+# Ignore Docker ignore file (you can track .dockerignore, so remove if needed)
+.dockerignore
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Swap files from text editors like Vim
+*.swp
+*.swo
+
+# macOS-specific files (e.g., for Finder)
+*.DS_Store
+
+# Ignore all hidden files, except .gitignore itself
+.*
+!.gitignore

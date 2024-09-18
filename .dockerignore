@@ -1,0 +1,10 @@
+# Ignore all
+**
+
+#Exclude
+!app/
+!main.py
+!requirements.txt
+!Dockerfile
+!compose.yaml
+!DataProcessing/
